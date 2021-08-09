@@ -1,6 +1,6 @@
 <h1>Greetings GitHubber 🏮</h1>
 
-I'm a decade-experienced **full-stack developer** and a **cloud architect**, sometimes a **digital artist**, contributing to projects that I love. :heart:<br/>
+I'm a decade-experienced **software engineer** and a **cloud architect**, sometimes a **digital artist**, contributing to projects that I love. :heart:<br/>
 <table>
 <tr>
 <td align="center" width="60%">
