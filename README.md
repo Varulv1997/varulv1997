@@ -3,11 +3,11 @@
 I'm a decade-experienced **software engineer** and a **cloud architect**, sometimes a **digital artist**, contributing to projects that I love. :heart:<br/>
 <table>
 <tr>
-<td align="center" width="60%">
+<td align="left" width="60%">
 <img src="https://anasgamrani.vercel.app/api?username=Varulv1997&theme=jolly&bg_color=221A2F&count_private=true&title_color=E81248&include_all_commits&show_icons=true"</img> 
 </td>
 <td align="left">
-<h2>Where to find me <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/plsdontkillme.gif" width="58" height="38"/></h2>
+<h3>Where to find me</h3>
 <a href="https://discordapp.com/users/293458603967381504">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/VARULV5506-%237289DA.svg"/>
 </a>
@@ -32,17 +32,11 @@ I'm a decade-experienced **software engineer** and a **cloud architect**, someti
 <a href="https://www.tumblr.com/blog/view/eigifellrtrevidfyrstahogg">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/Tumblr-%2336465D.svg"/>
 </a>
-<a href="https://twitter.com/Ihmissusi97">
-<img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/Ihmissusi97-%231DA1F2.svg"/>
-</a>
 <a href="http://be.net/varulv">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/adobe-%23FF0000.svg"/>
 </a>
 <a href="https://01100001a01101110a01100001a01110011.wordpress.com/">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/WordPress-%23117AC9.svg"/>
-</a>
-<a href="mailto:farahianas5@gmail.com">
-<img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/Gmail-D14836.svg"/>
 </a>
 <a href="https://www.reddit.com/user/TheWolf978/">
 <img src="https://github.com/Varulv1997/Varulv1997/raw/master/stay_away_from_me_pls_im_peaceful/Reddit-FF4500.svg"/>
