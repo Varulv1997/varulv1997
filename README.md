@@ -139,9 +139,3 @@ I'm a decade-experienced **software engineer** and a **cloud architect**, someti
 </td>    
 </tr>
 </table>
-
-<!--START_SECTION:helpkeepmylawnmowed-->
-```
-PS: There's a weird rumor that I'm a bot, well it's true >:] maybe.. 
-```
-<!--END_SECTION:helpkeepmylawnmowed-->
